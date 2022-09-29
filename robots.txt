@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://francesjousp.github.io/workout-plan/sitemapx.xml
